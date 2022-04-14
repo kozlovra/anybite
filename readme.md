@@ -1,6 +1,6 @@
 Usage:
 
-Decode you string to Base64
+Encode you string to Base64
 
 Add 15 random symbols to start and end base64 string
 
